@@ -1,0 +1,16 @@
+package TestFormat;
+
+public class Bradut {
+
+  public static void main(String[] args) {
+  System.out.format("%8c%n",'^');
+  System.out.format("%7c%2c%n",'Q','Q');
+  System.out.format("%6c%2c%2c%n",'O','₩','O');
+  System.out.format("%5c%2c%2c%2c%n",'O','€','€','O');
+  System.out.format("%4c%2c%2c%2c%2c%n",'i','O','O','O','i');
+  System.out.format("%3c%2c%2c%2c%2c%2c%n",'O','×','×','×','×','0');
+  System.out.format("%2c%2c%2c%2c%2c%2c%2c%n",'¥','O','O','O','O','0','¥');
+  System.out.format("%8c%n",'l');
+  System.out.println("Merry Christmas!!!"); 
+  }
+}
