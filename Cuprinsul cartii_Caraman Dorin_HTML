@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  
+    <title>Discipline scolare.HTML</title>
+  </head>
+  <body>
+  
+  <table border="2" width="100%">
+  <caption>Definitiile disciplinelor</caption>
+  <thead>
+  <td>Matematica- Știință care studiază mărimile, relațiile cantitative și formele spațiale prin raționament deductiv.</td>
+ 
+  </thead>
+  <tr>
+  
+  <td>Literatura universala- arta compozițiilor scrise ale lumii.</td>
+  </tr>
+  <tr>
+  
+  <td>Limba si literatura romana- disciplina care studiaza întreaga literatură scrisă în limba română.</td>
+  </tr>
+  <tr>
+  
+  <td>Limba franceza- disciplina in care se studiaza limba franceza</td>
+  </tr>
+  <tr>
+ 
+  <td>Limba engleza- disciplina in care se studiaza limba engleza</td>
+  </tr>
+  <tr>
+  <td>Istoria- Știință care studiază dezvoltarea treptată a societății omenești.</td>
+  </tr>
+  <tr>
+  <td>Informatica- Știință care se ocupă cu studiul prelucrării informației cu ajutorul sistemelor automate de calcul. </td>
+  </tr>
+  <tr>
+  <td>Geografie- Știință care studiază și descrie învelișul terestru, cu toate elementele sale, din punct de vedere fizic, economic, etnografic etc.</td>
+  </tr>
+  <tr>
+  <td>Fizica- Știință a naturii, care studiază proprietățile și structura materiei, transformările ei, legile fenomenelor naturii. </td>
+  </tr>
+  <tr>
+  <td>Educatia pentru societate- disciplina in care se studiaza modelarea personalităţii elevului în spiritul
+  valorilor şi principiilor democratice care guvernează demersul societăţii.
+  Această disciplină predată în şcoli deţine o contribuţie majoră în procesul de înţelegere şi însuşire a 
+  practicilor care fundamentează comunitatea 
+  şi întregul sistem în care trăim.</td>
+  </tr>
+  <tr>
+  <td>Educatia fizica- disciplina care necesita depunerea efortului fizic.</td>
+  </tr>
+  <tr>
+  <td>Dezvoltare personala- disciplina in care se studiaza descoperirea de sine si tinde spre educarea omului.</td>
+  </tr>
+  <tr>
+  <td>Chimie- Știință care studiază compoziția, structura și proprietățile
+  substanțelor, transformărilor lor prin regruparea
+  atomilor componenți, precum și combinațiile noi ale substanțelor rezultate 
+  în urma acestor transformări.</td>
+  </tr>
+  <tr>
+  <td>Biologie- Știință care studiază viața organismelor vii.</td>
+  </body>
+</html>
