@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  
+    <title>Cuprinsul cartii Odiseea.HTML</title>
+  </head>
+  <body>
+  Odiseea de Homer
+  <table border="40" width="60%">
+  <caption>Cuprins</caption>
+  <thead>
+  <td>Adunarea zeilor....8</td>
+  <td>Telemah își caută tatăl....10</td>
+  <td>Ulise, prizonierul lui Calipso....14</td>
+  <td>Întâlnirea cu Nausicaa....16</td>
+  </thead>
+  <tr>
+  <td>Ulise, oaspete al regelui Alcinous....18</td>
+  <td>Întâlnirea cu cioconii și lotofagii....20</td>
+  <td>Întâlnirea cu Polifern....22</td>
+  <td>Furtuna dezlănțuită de Eolus....24</td>
+  </tr>
+  <tr>
+  <td>Vrăjitoarea Circe....26</td>
+  <td>Coborârea în Infern....28</td>
+  <td>Seducătoarele sirene....30</td>
+  <td>Ulise pleacă spre Itaca....32</td>
+  </tr>
+  <tr>
+  <td>Ulise debarcă în Itaca....34</td>
+  <td>Telemah se întoarce în Itaca....36</td>
+  <td>Telemah își recunoaște tatăl....38</td>
+  <td>Câinele Argos....40</td>
+  </tr>
+  <tr>
+  <td>Confruntarea dintre Ulise și Arneos....42</td>
+  <td>Întâlnirea cu Penelopa....44</td>
+  <td>Întrecerea cu arcul....46</td>
+  <td>În Itaca se așterne pacea....50</td>
+  </body>
+</html>
